@@ -222,7 +222,9 @@ header {
 
 #navbar nav a {
   display: inline-block;
-  width: 16.6666667
+  width: 16.6666667;
+  margin: 0;
+  padding: 22px;
 }
 
 
