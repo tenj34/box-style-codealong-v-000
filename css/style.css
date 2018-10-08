@@ -37,7 +37,6 @@ figcaption {
 }
 
 
-
 /*////////// BACKGROUNDS //////////*/
 .white-wood {
   background: url(../images/white-wood.jpg) no-repeat center top;
@@ -202,7 +201,9 @@ img, video, audio, iframe, table, form {
 }
 
 /*////////// HEADER //////////*/
-
+header {
+  margin: 0 0 30px;
+}
 
 
 /*////////// NAVBAR //////////*/
