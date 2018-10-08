@@ -33,13 +33,15 @@ figcaption {
 }
 .border-right{
   border-right: 1px dotted #ccc;
-  padding-right: 
+  padding-right:
 }
 
 
 
 /*////////// BACKGROUNDS //////////*/
-
+.white-wood {
+  background: url(../images/white-wood.jpeg)
+}
 
 
 /*/////// MEDIA ////////*/
